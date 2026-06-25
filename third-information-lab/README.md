@@ -1,6 +1,6 @@
-# The AI Lab: Third Information Lab
+# The Third Information Lab
 
-The AI and information division of Material & Meaning. Where the institute's empirical engine studies the material-and-meaning coupling in the world, the AI Lab studies that coupling as it is mediated, datafied, and extracted by information systems. It runs two registers.
+The AI and information division of Material & Meaning. Where the institute's empirical engine studies the material-and-meaning coupling in the world, the lab studies that coupling as it is mediated, datafied, and extracted by information systems. It runs two registers.
 
 - **Diagnostic register.** Audit the collapse that datafied systems perform on a relational affordance, the deletion of the organism-pole. The keystone proof and the corpus live in the vault.
 - **Constructive register.** Build small, governed experiments that try to hold the organism-pole instead of deleting it, and run the wager honestly. This directory is that register's build.
@@ -14,7 +14,7 @@ The AI and information division of Material & Meaning. Where the institute's emp
 
 This repo holds the build. The lab's other layers live where they belong:
 
-- **Charter** (decisions, fit with the institute's C-suite): `stack-data/institutes/material-and-meaning/ai-lab/README.md`.
+- **Charter** (decisions, fit with the institute's C-suite): `stack-data/institutes/material-and-meaning/third-information-lab/README.md`.
 - **Research and thinking** (the thesis, the keystone, the convergence map, the lab architecture): the Obsidian vault, `Second Brain/02 Research/15 Synthesis/15 Third Information Lab/`.
 
 ## Status

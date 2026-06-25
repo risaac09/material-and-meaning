@@ -6,11 +6,11 @@ name: embodied-service safety floor
 on:
   push:
     paths:
-      - "ai-lab/embodied-service/**"
+      - "third-information-lab/embodied-service/**"
       - ".github/workflows/embodied-verify.yml"
   pull_request:
     paths:
-      - "ai-lab/embodied-service/**"
+      - "third-information-lab/embodied-service/**"
       - ".github/workflows/embodied-verify.yml"
   workflow_dispatch:
 
@@ -25,11 +25,11 @@ jobs:
           node-version: "20"
       - name: Syntax-check worker modules
         run: |
-          for f in ai-lab/embodied-service/worker/src/*.js; do
+          for f in third-information-lab/embodied-service/worker/src/*.js; do
             node --check "$f"
           done
       - name: Run safety verification harness
-        run: node ai-lab/embodied-service/verify/verify.mjs
+        run: node third-information-lab/embodied-service/verify/verify.mjs
 
   deploy:
     name: deploy (gated on safety floor)
@@ -41,7 +41,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ai-lab/embodied-service/worker
+        working-directory: third-information-lab/embodied-service/worker
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
