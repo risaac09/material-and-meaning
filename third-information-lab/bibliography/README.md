@@ -9,8 +9,14 @@ The practice is a standing rule, not a one-time export. Lanier's data-dignity pr
 - `BIBLIOGRAPHY.md`, the human-readable and agent-readable record: every claim, the figure as the source actually states it, the verdict, and a URL or DOI. Start here to fact-check.
 - `position-counterpoint.csl.json`, the machine-readable bibliography in CSL-JSON, so it imports into Zotero, pandoc, or any citation tool.
 - `position-counterpoint.bib`, the same records as BibTeX.
+- `material-and-meaning-sources.csl.json` and `.bib`, the institute-tree dataset: the empirical pilots' data sources (CDC WONDER, Census ACS, US Religion Census, and the rest), the funder facts (Templeton, NIMHD, Players Philanthropy Fund, Russell Sage, Fetzer, Mind and Life), and the embodied-AI science claims (fascia, the enteric nervous system, the physics of the torus). 31 records, verified the same way.
+- `tree-coverage-ledger.md`, the honest answer to "is the whole Material and Meaning tree in a verified bibliography." A per-subfolder map of what is verified, what is record-verified, what is register-labeled, and what is still an open gap.
 
-The first dataset covers the position paper *Material and Meaning, and the Third Information Lab* (the lab's public-health-AI counterpoint to corporate AI labs). More datasets will be added as the lab publishes.
+Two datasets so far. `position-counterpoint` covers the public-health-AI position paper. `material-and-meaning-sources` covers the institute tree audited 2026-06-25. The coverage ledger ties them together and names what is not yet covered. More datasets are added as the lab publishes.
+
+## Tree-wide coverage, stated honestly
+
+The whole institute tree is not yet a single fully-verified bibliography, and the ledger says so plainly. The claim-bearing prose surfaces resolve to real sources with no fabricated citations found: the thesis corpus (158 records), the institute literature (91), the position paper (31), and now the empirical pilots, funder facts, and embodied science (31). What is not verified, and is labeled as such: the internal org and dossiers layer (un-audited), a few funder figures behind fetch-blocked official pages, a residual literature queue, and the embodied-AI esoterica, which is register-labeled (tradition and metaphysics) rather than graded as fact, by the lab's two-voice firewall. Nothing un-verified is presented as established.
 
 ## The verdict legend
 

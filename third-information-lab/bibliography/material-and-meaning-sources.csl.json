@@ -1,0 +1,988 @@
+[
+ {
+  "id": "src-seto2022savinggrace",
+  "citekey": "seto2022savinggrace",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Seto",
+    "given": "Christopher"
+   }
+  ],
+  "title": "Saving Grace? Religious ecology and deaths of despair",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "container-title": "Social Science & Medicine, vol. 293, art. 114642",
+  "DOI": "10.1016/j.socscimed.2021.114642",
+  "URL": "https://pubmed.ncbi.nlm.nih.gov/34906828/",
+  "annotation": "[peer-reviewed-science/verified] anchor paper; sole author; N=2,992 counties; PMID 34906828; Mainline/Black-Protestant protective, Catholic amplifying at high disadvantage all confirmed",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01",
+   "mm-fundraising"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2022",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-gileshungermanoostrom2025deathsofdespair",
+  "citekey": "gileshungermanoostrom2025deathsofdespair",
+  "type": "article-journal",
+  "author": [
+   {
+    "literal": "Tyler Giles, Daniel M. Hungerman, Tamar Oostrom"
+   }
+  ],
+  "title": "Deaths of Despair and the Decline of American Religion",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title": "Journal of the European Economic Association",
+  "DOI": "",
+  "URL": "https://tamaroostrom.github.io/website/Deaths_of_Despair_Giles_Hungerman_Oostrom.pdf",
+  "annotation": "[peer-reviewed-science/verified] cited as a future blue-law natural-experiment design; has since published Nov 2025 and now directly instantiates the institute's own thesis -- promote from footnote to engaged reference/competitor",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2025",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-chen2020religiousservicedespair",
+  "citekey": "chen2020religiousservicedespair",
+  "type": "article-journal",
+  "author": [
+   {
+    "literal": "Chen Y, Koh HK, Kawachi I, Botticelli M, VanderWeele TJ"
+   }
+  ],
+  "title": "Religious Service Attendance and Deaths Related to Drugs, Alcohol, and Suicide Among US Health Care Professionals",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "container-title": "JAMA Psychiatry",
+  "DOI": "10.1001/jamapsychiatry.2020.0175",
+  "URL": "https://pubmed.ncbi.nlm.nih.gov/32374354/",
+  "annotation": "[peer-reviewed-science/partially-verified] study/authors/journal/cohort verified: 66,492 women + 43,141 men. NUANCE: HR ~0.32 is the women-only estimate, men ~0.67; label sex-specific HRs before any grader-facing use",
+  "verification": "unverified",
+  "verifyNeeds": [
+   "partially-verified: study/authors/journal/cohort verified: 66,492 women + 43,141 men. NUANCE: HR ~0.32 is the women-only estimate, men ~0.67; label sex-specific HRs before any grader-facing use"
+  ],
+  "domains": [],
+  "usedIn": [
+   "mm-fundraising / knowledge-map"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2020"
+ },
+ {
+  "id": "src-whitehouse2021retraction",
+  "citekey": "whitehouse2021retraction",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "al.",
+    "given": "Whitehouse et"
+   }
+  ],
+  "title": "Retraction Note: Complex societies precede moralizing gods throughout world history",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "container-title": "Nature",
+  "DOI": "",
+  "URL": "https://www.nature.com/articles/s41586-021-03656-3",
+  "annotation": "[peer-reviewed-science/verified] 2019 Seshat-databank paper retracted 2021 over missing-data coding per Beheim et al.; directionality not settled -- file's adversarial read is well-calibrated",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-knowledge-map"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2021",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-mrpbrfssvalidation",
+  "citekey": "mrp_brfss_validation",
+  "type": "article-journal",
+  "author": [
+   {
+    "literal": "Multiple (Gelman/Little lineage; Zhang et al.)"
+   }
+  ],
+  "title": "Validation of Multilevel Regression and Poststratification for Small-Area Estimation of Health Indicators (BRFSS)",
+  "issued": {},
+  "container-title": "American Journal of Epidemiology / PMC",
+  "DOI": "",
+  "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4554328/",
+  "annotation": "[peer-reviewed-science/verified] MRP as validated small-area estimation method; two-stage mechanism and limits described accurately",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-gap3"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": null,
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-cdcwondermcd19992020",
+  "citekey": "cdcwonder_mcd_1999_2020",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "CDC National Center for Health Statistics"
+   }
+  ],
+  "title": "Multiple Cause of Death, 1999-2020 (CDC WONDER)",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "container-title": "CDC WONDER",
+  "DOI": "",
+  "URL": "https://wonder.cdc.gov/mcd-icd10.html",
+  "annotation": "[official-data/verified] outcome data; county-form-only, terms-gated, sub-10 suppression / <20-death unreliable flags all accurate",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2020",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-cdcoverdoseicd10db428",
+  "citekey": "cdc_overdose_icd10_db428",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "CDC NCHS (per Case-Deaton)"
+   }
+  ],
+  "title": "Drug overdose / deaths-of-despair ICD-10 definition (X40-X44, X60-X64, X85, Y10-Y14; suicide X60-X84, Y87.0; alcohol-liver K70, K73, K74)",
+  "issued": {},
+  "container-title": "CDC NCHS Data Brief 428 / JEC methodological appendix",
+  "DOI": "",
+  "URL": "https://www.cdc.gov/nchs/data/databriefs/db428.pdf",
+  "annotation": "[official-data/verified] composite internally consistent; poisoning component follows CDC all-intent overdose def, broader than Case-Deaton drug-only -- state this so reviewers aren't surprised",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": null,
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-acsb25070rentburden",
+  "citekey": "acs_b25070_rentburden",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "U.S. Census Bureau"
+   }
+  ],
+  "title": "ACS Table B25070: Gross Rent as a Percentage of Household Income",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "container-title": "American Community Survey 5-Year (2015-2019)",
+  "DOI": "",
+  "URL": "https://data.census.gov/table/ACSDT5Y2021.B25070",
+  "annotation": "[official-data/verified] primary exposure; 30%+ and 50%+ cost-burden line-item construction maps exactly",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2019",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-hudchascostburdenstandard",
+  "citekey": "hud_chas_costburden_standard",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "U.S. Department of Housing and Urban Development"
+   }
+  ],
+  "title": "CHAS: housing cost burden definition (30% = burdened, 50% = severe)",
+  "issued": {},
+  "container-title": "HUD USER",
+  "DOI": "",
+  "URL": "https://www.huduser.gov/portal/datasets/cp/CHAS/bg_chas.html",
+  "annotation": "[official-data/verified] 30% federal affordability standard since 1981; mapping accurate",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": null,
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-ardarcmscy10usreligioncensus",
+  "citekey": "arda_rcmscy10_usreligioncensus",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "Association of Statisticians of American Religious Bodies (ASARB); ARDA"
+   }
+  ],
+  "title": "Religious Congregations and Membership Study, 2010 County File (US Religion Census)",
+  "issued": {
+   "date-parts": [
+    [
+     2010
+    ]
+   ]
+  },
+  "container-title": "Association of Religion Data Archives",
+  "DOI": "",
+  "URL": "https://www.thearda.com/data-archive?fid=RCMSCY10",
+  "annotation": "[official-data/verified] moderator; 236 groups / 344,894 congregations / 150.7M adherents = 48.8% of 2010 pop; institutional-adherence-not-belief and undercount caveats accurate; RCMSCY20 fid pattern consistent",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2010",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-veraincarcerationtrends",
+  "citekey": "vera_incarceration_trends",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "Vera Institute of Justice"
+   }
+  ],
+  "title": "Incarceration Trends Dataset",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": "GitHub / Vera Institute",
+  "DOI": "",
+  "URL": "https://github.com/vera-institute/incarceration-trends",
+  "annotation": "[official-data/partially-verified] covariate; source verified. STALE detail: jail series now extends past 2018 to 2026 v3.1; harmless for the 2015-2019 window but DATA-SOURCES sec 4 should be updated",
+  "verification": "unverified",
+  "verifyNeeds": [
+   "partially-verified: covariate; source verified. STALE detail: jail series now extends past 2018 to 2026 v3.1; harmless for the 2015-2019 window but DATA-SOURCES sec 4 should be updated"
+  ],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2026"
+ },
+ {
+  "id": "src-blsqcewdatafiles",
+  "citekey": "bls_qcew_datafiles",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "U.S. Bureau of Labor Statistics"
+   }
+  ],
+  "title": "Quarterly Census of Employment and Wages (QCEW) Data Files",
+  "issued": {},
+  "container-title": "U.S. Bureau of Labor Statistics",
+  "DOI": "",
+  "URL": "https://www.bls.gov/cew/downloadable-data-files.htm",
+  "annotation": "[official-data/verified] covariate; county average weekly wage, public domain, disclosure-suppression note accurate",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": null,
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-nchsurbanruralclassification",
+  "citekey": "nchs_urban_rural_classification",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "CDC National Center for Health Statistics"
+   }
+  ],
+  "title": "NCHS Urban-Rural Classification Scheme for Counties (six-level)",
+  "issued": {
+   "date-parts": [
+    [
+     2013
+    ]
+   ]
+  },
+  "container-title": "CDC NCHS (Series 2 No. 166)",
+  "DOI": "",
+  "URL": "https://www.cdc.gov/nchs/data-analysis-tools/urban-rural.html",
+  "annotation": "[official-data/verified] rurality control; six-level scheme confirmed",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2013",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-acscovariatetables",
+  "citekey": "acs_covariate_tables",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "U.S. Census Bureau"
+   }
+  ],
+  "title": "ACS Detailed Tables B19013, B17001/S1701, B23025, B15003, B03002, B01001, B01003",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "container-title": "American Community Survey 5-Year",
+  "DOI": "",
+  "URL": "https://censusreporter.org/tables/B15003/",
+  "annotation": "[official-data/verified] income, poverty, unemployment, education, race/ethnicity, age, population covariates; every table-to-construct mapping correct",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-pilot-01"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2019",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-pewrls2014",
+  "citekey": "pew_rls_2014",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "Pew Research Center"
+   }
+  ],
+  "title": "2014 U.S. Religious Landscape Study",
+  "issued": {
+   "date-parts": [
+    [
+     2014
+    ]
+   ]
+  },
+  "container-title": "Pew Research Center / ARDA (fid=RELLAND14)",
+  "DOI": "",
+  "URL": "https://www.pewresearch.org/religious-landscape-study/",
+  "annotation": "[official-data/verified] individual-layer outcome; 35,071 adults; affiliation/salience/belief items match Pew instruments; 2023-24 wave fold-in plan current",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-gap3"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2014",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-gsscumulativenorc",
+  "citekey": "gss_cumulative_norc",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "NORC at the University of Chicago"
+   }
+  ],
+  "title": "General Social Survey (GSS) Cumulative Data File",
+  "issued": {},
+  "container-title": "NORC / GSS",
+  "DOI": "",
+  "URL": "https://gss.norc.org/",
+  "annotation": "[official-data/verified] RELIG/RELITEN wording matches; public file = Census division not state; finer geocodes are contract-gated Sensitive Data Files -- accurate",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-gap3"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": null,
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-acspumsmcdcgeocorr",
+  "citekey": "acs_pums_mcdc_geocorr",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "U.S. Census Bureau; Missouri Census Data Center"
+   }
+  ],
+  "title": "ACS 5-Year PUMS API + MABLE/Geocorr geographic correspondence engine",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "container-title": "Census Microdata API / MCDC",
+  "DOI": "",
+  "URL": "https://www.census.gov/data/developers/data-sets/census-microdata-api/acs-5y-pums.html",
+  "annotation": "[official-data/verified] poststratification seed; PUMS variables, B01001H/B/I iterations, 2010 PUMA vintage, Geocorr population-weighted PUMA-to-county allocation all accurate",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-gap3"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2019",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-templetongrantcalendar2026",
+  "citekey": "templeton_grant_calendar_2026",
+  "type": "webpage",
+  "author": [
+   {
+    "literal": "John Templeton Foundation"
+   }
+  ],
+  "title": "John Templeton Foundation Grant Calendar (2026 OFI July 15 / full proposal Dec 4)",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": "John Templeton Foundation",
+  "DOI": "",
+  "URL": "https://www.templeton.org/grants/grant-calendar",
+  "annotation": "[funder-fact/verified] nearest real deadline; one unified deadline across all six funding areas; confirmed via live fetch. Dollar-figure conventions still need confirming on the live form",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-fundraising"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2026",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-nimhdspiritualityreligiosityconcept2023",
+  "citekey": "nimhd_spirituality_religiosity_concept_2023",
+  "type": "webpage",
+  "author": [
+   {
+    "literal": "National Institute on Minority Health and Health Disparities"
+   }
+  ],
+  "title": "Spirituality and Religiosity as Psychosocial Determinants of Health in Populations Experiencing Health Disparities (approved concept)",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "container-title": "NIMHD",
+  "DOI": "",
+  "URL": "https://www.nimhd.nih.gov/funding/approved-concepts/2023/spirituality-and-religiosity-as-determinants-of-health.html",
+  "annotation": "[funder-fact/verified] the one bridge funder treating both poles as health determinants; concept + exact URL corroborated; file's shortened title faithful",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-fundraising"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2023",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-ppffiscalsponsorship",
+  "citekey": "ppf_fiscal_sponsorship",
+  "type": "webpage",
+  "author": [
+   {
+    "literal": "Players Philanthropy Fund"
+   }
+  ],
+  "title": "Fiscal Sponsorship - Players Philanthropy Fund (6% fee, 501(c)(3))",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": "Players Philanthropy Fund",
+  "DOI": "",
+  "URL": "https://ppf.org/fiscal-sponsorship/",
+  "annotation": "[funder-fact/verified] 6% on deposits, no fee on in-kind; sponsorship correctly marked pending throughout",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-fundraising"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2026",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-twcfgrandchallengesflourishing",
+  "citekey": "twcf_grand_challenges_flourishing",
+  "type": "webpage",
+  "author": [
+   {
+    "literal": "Templeton World Charity Foundation"
+   }
+  ],
+  "title": "Grand Challenges for Human Flourishing (~$40M; Ideas Portal)",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": "Templeton World Charity Foundation",
+  "DOI": "",
+  "URL": "https://www.templetonworldcharity.org/our-priorities",
+  "annotation": "[funder-fact/partially-verified] ~$40M investment, five-year strategy, Ideas Portal confirmed; ~$100k planning-grant figure not independently confirmed; file correctly marks 'no confirmed open call'",
+  "verification": "unverified",
+  "verifyNeeds": [
+   "partially-verified: ~$40M investment, five-year strategy, Ideas Portal confirmed; ~$100k planning-grant figure not independently confirmed; file correctly marks 'no confirmed open call'"
+  ],
+  "domains": [],
+  "usedIn": [
+   "mm-fundraising"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2026"
+ },
+ {
+  "id": "src-fetzerfundingpolicy",
+  "citekey": "fetzer_funding_policy",
+  "type": "webpage",
+  "author": [
+   {
+    "literal": "Fetzer Institute"
+   }
+  ],
+  "title": "Fetzer Funding Policy (invitation-only; $180M pledge)",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": "Fetzer Institute",
+  "DOI": "",
+  "URL": "https://fetzer.org/funding-policy/",
+  "annotation": "[funder-fact/verified] no unsolicited proposals; $180M pledge confirmed; 'three to five years' vs file's 'five-year' is minor",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-fundraising"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2026",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-mindandlifevarelagrants",
+  "citekey": "mindandlife_varela_grants",
+  "type": "webpage",
+  "author": [
+   {
+    "literal": "Mind & Life Institute"
+   }
+  ],
+  "title": "Varela Research Grants (up to $25,000; SRI-attendance gated)",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": "Mind & Life Institute",
+  "DOI": "",
+  "URL": "https://www.mindandlife.org/grants/varela-grants/",
+  "annotation": "[funder-fact/verified] $25k cap, prior Summer Research Institute attendance + junior-status requirement; eligibility caveat accurate",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-fundraising"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2026",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-russellsagedeadlines2026",
+  "citekey": "russellsage_deadlines_2026",
+  "type": "webpage",
+  "author": [
+   {
+    "literal": "Russell Sage Foundation"
+   }
+  ],
+  "title": "Russell Sage Foundation Application Deadlines (July 15 / Oct 28 2026; trustee up to $200k)",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": "Russell Sage Foundation",
+  "DOI": "",
+  "URL": "https://www.russellsage.org/apply/application-deadlines",
+  "annotation": "[funder-fact/partially-verified] July 15 LOI, $200k trustee incl. 15% indirect, SPEI+Future-of-Work closed confirmed; drift: smaller tier now 'up to $75,000 Presidential-Authority' vs file's '$50k raisable to $75k'",
+  "verification": "unverified",
+  "verifyNeeds": [
+   "partially-verified: July 15 LOI, $200k trustee incl. 15% indirect, SPEI+Future-of-Work closed confirmed; drift: smaller tier now 'up to $75,000 Presidential-Authority' vs file's '$50k raisable to $75k'"
+  ],
+  "domains": [],
+  "usedIn": [
+   "mm-fundraising"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2026"
+ },
+ {
+  "id": "src-healthypeople2030sdohfivedomains",
+  "citekey": "healthypeople2030_sdoh_five_domains",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "Office of Disease Prevention and Health Promotion"
+   }
+  ],
+  "title": "Social Determinants of Health - Healthy People 2030 (five domains, no spirituality)",
+  "issued": {
+   "date-parts": [
+    [
+     2030
+    ]
+   ]
+  },
+  "container-title": "ODPHP",
+  "DOI": "",
+  "URL": "https://odphp.health.gov/healthypeople/priority-areas/social-determinants-health",
+  "annotation": "[official-data/verified] empirical backbone of the 'meaning omitted as a determinant' framing; five domains match exactly, spirituality indeed absent",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "mm-knowledge-map"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2030",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-schleipfasciainnervation",
+  "citekey": "schleip_fascia_innervation",
+  "type": "article-journal",
+  "author": [
+   {
+    "literal": "Schleip et al.; 2024 Physiotherapy meta-analysis"
+   }
+  ],
+  "title": "Fascia as a sensory organ: innervation density and four mechanoreceptor types; myofascial release outcomes meta-analysis",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title": "PubMed 24628059 / Physiotherapy 2024",
+  "DOI": "",
+  "URL": "https://pubmed.ncbi.nlm.nih.gov/24628059/",
+  "annotation": "[peer-reviewed-science/verified] Note 01; MFR reduces neck pain / improves ROM not PPT; muscle-spindle slip harmless",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "til-embodied-science"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2024",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-gershonensneurons",
+  "citekey": "gershon_ens_neurons",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "al.",
+    "given": "Gershon et"
+   }
+  ],
+  "title": "Enteric nervous system neuron count (~200-600M), gut serotonin (~90-95%), vagal afferent dominance",
+  "issued": {},
+  "container-title": "PubMed 10418549 / PMC11818468",
+  "DOI": "",
+  "URL": "https://pubmed.ncbi.nlm.nih.gov/10418549/",
+  "annotation": "[peer-reviewed-science/verified] Note 03 ESTABLISHED NEUROSCIENCE; note's own UNCITED tag was conservative -- all confirmed",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "til-embodied-science"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": null,
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-porgespolyvagal",
+  "citekey": "porges_polyvagal",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Porges",
+    "given": "Stephen"
+   }
+  ],
+  "title": "Polyvagal theory (three autonomic states via neuroception)",
+  "issued": {},
+  "container-title": "contested/emerging",
+  "DOI": "",
+  "URL": "https://en.wikipedia.org/wiki/Polyvagal_theory",
+  "annotation": "[peer-reviewed-science/partially-verified] Note 03; correctly tagged CONTESTED -- a map not a proven mechanism",
+  "verification": "unverified",
+  "verifyNeeds": [
+   "partially-verified: Note 03; correctly tagged CONTESTED -- a map not a proven mechanism"
+  ],
+  "domains": [],
+  "usedIn": [
+   "til-embodied-science"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": null
+ },
+ {
+  "id": "src-varelaembodiedmindholobiont",
+  "citekey": "varela_embodied_mind_holobiont",
+  "type": "article-journal",
+  "author": [
+   {
+    "literal": "Varela/Thompson/Rosch; Levin"
+   }
+  ],
+  "title": "Autopoiesis / The Embodied Mind (1991); holobiont ~37T human cells; cell signaling and gap junctions; Levin bioelectricity (interpretation contested)",
+  "issued": {
+   "date-parts": [
+    [
+     1991
+    ]
+   ]
+  },
+  "container-title": "PMC10770221 / MIT Press 1991",
+  "DOI": "",
+  "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10770221/",
+  "annotation": "[peer-reviewed-science/verified] Note 04; avoids the discredited 10:1 microbiome ratio; 1991 date accurate; Levin interpretation flagged as frontier",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "til-embodied-science"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "1991",
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-torusphysicsgeometry",
+  "citekey": "torus_physics_geometry",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "physics",
+    "given": "textbook"
+   }
+  ],
+  "title": "Toroidal/poloidal geometry, tokamak confinement, vortex rings, dipole field shells",
+  "issued": {},
+  "container-title": "energy.gov / standard references",
+  "DOI": "",
+  "URL": "https://www.energy.gov/science/doe-explainsnuclear-fusion-reactions",
+  "annotation": "[peer-reviewed-science/verified] Note 05 PHYSICS AND MATH OF THE TORUS; textbook physics, note adds its own correct cautions. NB: the body-toroidal-field/HeartMath and involution-evolution cosmology layered on top stay register-labeled, NOT verified",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "til-embodied-science"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": null,
+  "verifiedOn": "2026-06-25"
+ },
+ {
+  "id": "src-aigovernanceframeworks2026",
+  "citekey": "ai_governance_frameworks_2026",
+  "type": "report",
+  "author": [
+   {
+    "literal": "Anthropic / OpenAI / Google DeepMind / NIST / EU"
+   }
+  ],
+  "title": "Frontier AI governance frameworks (Anthropic RSP v3.0, OpenAI Preparedness v2, DeepMind FSF v3.0, NIST AI RMF, EU AI Act)",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": "primary policy documents",
+  "DOI": "",
+  "URL": "https://www.anthropic.com/rsp",
+  "annotation": "[operational/verified] Note 06 governance; all confirmed, EU AI Act dates exact 2024/2025/2026, ASL-3 May 2025 ladder correction a genuine catch",
+  "verification": "verified",
+  "verifyNeeds": [],
+  "domains": [],
+  "usedIn": [
+   "til-embodied-science"
+  ],
+  "created": "2026-06-25",
+  "updated": "2026-06-25",
+  "source": "mm-tree-audit-2026-06-25",
+  "year": "2026",
+  "verifiedOn": "2026-06-25"
+ }
+]
