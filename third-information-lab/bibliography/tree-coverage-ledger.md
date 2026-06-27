@@ -6,6 +6,17 @@ Audit date: 2026-06-25. This ledger answers one question honestly: is the whole 
 
 No -- the tree is not yet a single fully-verified bibliography, but it is close and the remaining gaps are honestly bounded: the four claim-bearing prose surfaces (TIL thesis 158, M&M literature 91, the published position-paper 31, and now the two empirical pilots' data manifests plus the funder facts and embodied-science records) all resolve to real, correctly-named sources with no fabricated citations, DOIs, or URLs found anywhere. What is NOT in the verified bibliography is the org/dossiers layer (the institute's own internal source material, un-audited), a handful of self-sourced Templeton/NIMHD dollar-and-count figures that block automated fetchers, and a labeled residual literature queue (Li 2016, Powell 2003, Cohen 2016, Norris-Inglehart, the PLOS ONE 2025 ABM) -- all of which are explicitly flagged in-file as to-verify, and the esoterica/foundation-voice claims are deliberately register-labeled rather than graded, so nothing un-verified is posing as fact.
 
+## Gap-closing update (2026-06-26)
+
+Four named gaps were worked. Three closed, one downgraded, with two small items still pending a human.
+
+- **Gap 1 (org/dossiers) CLOSED.** All five collaborator dossiers verified against live sources: Christopher Seto (Purdue), Ellen Idler (Emory), Tyler VanderWeele (Harvard Human Flourishing Program), Richard Sosis (UConn), Daniel Hungerman (Notre Dame), plus the Harvard HFP, Emory RPHC, and Baylor ISR institutions. No refutations, no fabricated affiliations. Added as 8 `mm-org` records.
+- **Gap 2 (funder figures) CLOSED.** The TWCF planning-grant ceiling (about $100,000, the LLPW RFP) is verified on the funder's page; NIMHD's 675 social-determinants projects is verified against a peer-reviewed NIMHD-authored paper (Ogletree et al. 2024, AJPM). The Templeton "$450,000 to $730,000 average grant" is **refuted**: no Templeton primary page states it, and authoritative reporting puts the median near $202K to $217K and the mean near $311K. `knowledge-map/03-funders.md` line 24 should drop the $450K-$730K range and cite the median and mean instead.
+- **Gap 3 (literature queue) DOWNGRADED, 5 of 6 verified.** Li et al. 2016 (JAMA Internal Medicine), Powell et al. 2003 (American Psychologist), Norris and Inglehart 2004 (Sacred and Secular), Puga-Gonzalez et al. 2025 (PLOS ONE agent-based model), and the Whitehouse et al. 2021 retraction are all verified with DOIs and added. The sixth, "Cohen et al. 2016," could not be uniquely identified and stays an open stub for a human to disambiguate.
+- **Gap 4 (Chen 2020) CLOSED.** The general HR 0.32 is corrected to the sex-specific pair from the primary source (JAMA Psychiatry 2020;77(7):737-745): women HR 0.32 (95% CI 0.16-0.62), men HR 0.67 (95% CI 0.48-0.94), cohorts 66,492 women plus 43,141 men. The 0.32 was the women-only figure.
+
+Still pending a human: the unidentifiable "Cohen 2016" reference, the `03-funders.md` Templeton line edit, the TWCF roughly $40M Grand Challenges figure (not re-verified this pass), and the Norris and Inglehart edition (2004 first versus 2011 second). The master `sources.json` records for all of the above are computed and staged (the institute's stack-data repo had active uncommitted work from another session, so the master update was not force-committed there; it applies cleanly to origin/main as an add).
+
 ## Status legend
 
 - **verified-bibliography**: published open, fact-checkable bibliography (this folder).
